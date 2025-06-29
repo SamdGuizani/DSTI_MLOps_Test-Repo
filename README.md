@@ -1,2 +1,2 @@
 # DSTI_MLOps_Test-Repo
-Branch `main`
+Branch `main` [conflict resolved]
